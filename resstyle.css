@@ -1,0 +1,173 @@
+body{
+    background-color:#D7FFFD;
+    background-image: url(star.gif);
+    text-align: center;
+}
+.top-container{
+    font-family: 'Dancing Script', cursive;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 45px;
+    font-weight: 200;
+    justify-content: end;
+}
+.description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+    font-size: 40px;
+    font-weight: 300;
+    text-align: justify;
+    justify-content: end;
+    align-content: flex-start;
+}
+.gif{
+    float: right;
+}
+.coding{
+    width: 200px;
+    height: 190px;
+    padding-left: 2em;
+    float: left;
+}
+.html-css{
+    font-family: 'Bangers', cursive;
+    font-size: 3em;
+    float: left;
+    margin-left: 1em;
+}
+.java{
+    width: 200px;
+    height: 190px;
+    float: left;
+    padding-right: 2em;
+    margin-left: 1em;
+}
+.java-programming{
+    font-family: 'Bangers', cursive;
+    font-size: 3em;
+    float: left;
+    margin-left: 1em;
+}
+.python{
+    width: 200px;
+    height: 190px;
+    float: left;
+    padding-right: 2em;
+    margin-left: 1em;
+}
+.python-programming{
+    font-family: 'Bangers', cursive;
+    font-size: 3em;
+    float: left;
+    margin-left: 1em;
+}
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 75px;
+    font-weight: bolder;
+}
+
+.flip{
+    float: left;
+}
+.soft-skills{
+    font-family: 'Bangers', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+.communication{
+    width: 150px;
+    float: right;
+
+}
+.Effective-communication{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+
+}
+.creative-writing{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+
+}
+.writing{
+    width: 150px;
+    float: right;
+}
+.leadership{
+    width: 150px;
+    float: right;
+}
+.leadership-quality{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+}
+.code-gif{
+    padding-left: 30%;
+}
+.learner{
+    width: 150px;
+    float: right;
+}
+.good-learner{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+}
+
+.music{
+    width: 150px;
+    float: right;
+}
+.music-production{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+}
+.machinelearning{
+    width: 150px;
+    float: right;
+}
+.machine-learning{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+}
+.hackathon{
+    width: 150px;
+    float: right;
+}
+.competitive-programming{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+}
+.cinema{
+    width: 150px;
+    float: right;
+}
+.cinephile{
+    font-family: 'Bangers', cursive;
+    font-size: 45px;
+    float: left;
+}
+.area-of-interest{
+    font-family: 'Bangers', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+.instagram{
+    padding-left: 10%;
+}
+.gmail{
+    padding-left: 20%;
+}
+.whatsapp{
+    padding-left: 25%;
+}
+.alien{
+    float: right;
+}
